@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+#profile-content{
+    width:50%;
+    margin:auto;
+}
+
+#title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.input-group-text{
+	width:130px;
+}
+
+.button-group{
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

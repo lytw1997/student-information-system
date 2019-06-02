@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+#dashboard-content{
+    padding-top: 15px;
+    
+}
+
+p.card-text{
+    margin:0px;
+}

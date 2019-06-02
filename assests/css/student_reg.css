@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.reg-box{
+	width:100%;
+}
+
+.title{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.row{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.input-group-text{
+	width:130px;
+}
+
